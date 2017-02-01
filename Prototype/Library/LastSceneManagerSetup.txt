@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Act_III.unity
+  isLoaded: 1
+  isActive: 1
