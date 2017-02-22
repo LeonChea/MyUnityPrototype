@@ -15,17 +15,21 @@ EditorBuildSettings:
     path: Assets/Layal/Scenes/Level1test.unity
   - enabled: 0
     path: Assets/Layal/Scenes/Erika copy.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Layal/Scenes/loading scene.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Layal/Scenes/StartScene.unity
+  - enabled: 1
+    path: Assets/Member Projects/Leon/Scenes/Act 1.unity
+  - enabled: 1
+    path: Assets/Member Projects/Leon/Scenes/Act 2.unity
   - enabled: 0
     path: Assets/Tristan/Scenes/Leon Tiles v1.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Layal/Scenes/Level1.unity
   - enabled: 0
     path: Assets/Tristan/Scenes/Level1.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Layal/Scenes/Level2.unity
   - enabled: 1
     path: Assets/Layal/Scenes/Level3.unity
