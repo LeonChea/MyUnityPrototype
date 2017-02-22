@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Leon/Scenes/Act 1.unity
+- path: Assets/Member Projects/Leon/Scenes/Act 1.unity
   isLoaded: 1
   isActive: 1
