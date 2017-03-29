@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d518164e168d4a640bc22aa718417b44
+timeCreated: 1489353040
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChatoBand
+  fontNames:
+  - ChatoBand
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 429b616ac64744843a07ea064b0a1eb0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

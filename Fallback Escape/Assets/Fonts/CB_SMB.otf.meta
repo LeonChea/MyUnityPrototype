@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: df094e0f970fe3e4d9a4a66feca1ac97
+timeCreated: 1489353040
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChatoBand Smooth
+  fontNames:
+  - ChatoBand Smooth
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 44e13d30b3dac484bb7c68c00e9f5c40, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

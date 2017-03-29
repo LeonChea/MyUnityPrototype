@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Leon Scenes Creations/Leon Map Editor.unity
+  isLoaded: 1
+  isActive: 1
